@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RoomDBPractice</string>
+    <string name="empty_not_saved">Not saved</string>
+</resources>
